@@ -1,5 +1,5 @@
 {
-  "name": "@samuelmarina/is-even",
+  "name": "@cukmekerb/is-even",
   "version": "1.0.6",
   "description": "Is the number even?",
   "main": "index.js",
@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samuelmarina/is-even.git"
+    "url": "git+https://github.com/vincens2005/is-even.git"
   },
   "keywords": [
-    "even"
+    "even",
+    "odd"
   ],
   "author": "Samuel Miller",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samuelmarina/is-even/issues"
+    "url": "https://github.com/vincens2005/is-even/issues"
   },
-  "homepage": "https://github.com/samuelmarina/is-even#readme",
+  "homepage": "https://github.com/vincens2005/is-even#readme",
   "directories": {
     "test": "tests"
   }
