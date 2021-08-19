@@ -1,4 +1,3 @@
-process.exit(0)
 is_even = require("../index.js")
 
 class Test{
