@@ -1,19 +1,19 @@
-# is-even [![npm](https://img.shields.io/npm/v/@samuelmarina/is-even)](https://www.npmjs.com/package/@samuelmarina/is-even) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJKYubtV1bfbhS-SxTm9Z1A?style=social)](https://youtube.com/sammillervlogs)
-> Return true if the number passed is even, hopefully...
+# isevenpp
+> Return true if the number passed is even, now with 99% less segfaults
 
 ## Install
 Install with [npm](https://www.npmjs.com/)
 ```sh
-$ npm install --save @samuelmarina/is-even
+$ npm install --save isevenpp
 ```
 
 ## How to use it
 ```js
-var isEven = require('@samuelmarina/is-even');
+var iseven = require('isevenpp');
 
-isEven(1); //false
-isEven(2); //true
-isEven(3); //false
+iseven(1); //false
+iseven(2); //true
+iseven(3); //false
 // And so on... just for a little while
 ```
 ## About
@@ -23,11 +23,16 @@ decided to help them by creating this beautiful package. Hopefully, someday it w
 ### Contributing
 PLEASE, MAKE A PULL REQUEST SO WE CAN FINISH THIS PROJECT ASAP. Also, give it a star, for the sake of God.
 
-### Author
+### Modified Work
+Switch Case implementation by [AirmanEpic](https://github.com/AirmanEpic)
+Pogr new package by Cukmekerb (the owner of this repo)
+
+### Original Author
 **Samuel Mariña AKA Samuel Miller**
 * [github/samuelmarina](https://github.com/samuelmarina)
 * [youtube/sammillervlogs](https://youtube.com/sammillervlogs)
 
 ### License
 Copyright © 2021, [Samuel Mariña](https://github.com/samuelmarina).
+
 Released under the [MIT License](LICENSE).
